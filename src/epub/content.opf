@@ -35,8 +35,8 @@
 		<dc:subject id="subject-2">Napoleonic Wars, 1800-1815 -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCHS</meta>
 		<meta property="term" refines="#subject-2">sh2008108200</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">fiction</meta>
+		<dc:description id="description">A young Englishman arrives in Genoa, during the time of Napoleon's exile on Elba, and stumbles upon love and political intrigue.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
