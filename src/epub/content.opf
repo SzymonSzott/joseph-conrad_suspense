@@ -46,7 +46,8 @@
 		<meta property="schema:genre">Fiction</meta>
 		<dc:description id="description">A young Englishman arrives in Genoa, during the time of Napoleon’s exile on Elba, and stumbles upon love and political intrigue.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Cosmo Latham is a young Englishman travelling in Italy. The year is 1815, Napoleon is exiled on Elba and the Congress of Vienna is still in session. Cosmo arrives in Genoa, where he finds political intrigue and hopes to glimpse the exiled emperor himself. He also finds a young woman, the Countess de Montevesso, whom he had known in England as Adèle d’Armand, and who is now unhappily married.&lt;/p&gt;
+			&lt;p&gt;Suspense is &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; final, unfinished novel, published posthumously in 1925. The book was put into print by Richard Curle, Conrad’s executor and close friend. The idea for the book was on Conrad’s mind for many years. He even visited Corsica to gather writing material. The plot is partially based on the memoirs of Adèle d’Osmond, Comtesse de Boigne.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/66156</dc:source>
