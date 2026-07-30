@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Suspense: A Napoleonic Novel</dc:title>
 		<meta property="file-as" refines="#fulltitle">Suspense</meta>
-		<meta property="title-type" refines="#fulltitle">expanded</meta>		
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">War stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh85145220</meta>
@@ -68,7 +68,7 @@
 		<meta property="se:name.person.full-name" refines="#writer-of-preface">Richard Henry Parnell Curle</meta>
 		<link href="https://en.wikipedia.org/wiki/Richard_Curle" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50018547.html" refines="#artist" rel="schema:sameAs"/>
-		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>		
+		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Jasper Francis Cropsey</dc:contributor>
 		<meta property="file-as" refines="#artist">Cropsey, Jasper Francis</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey</meta>
